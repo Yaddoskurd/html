@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>         
+<head>
+
+ <title>شیکاری</title>
+
+</head>
+
+<body>
+
+
+
+<p>ئەمە نوسێنێکی پەڕەگرافیە</P>
+<br>
+<i>italic</i>
+<br>
+<em>ئەمە نوسێنێکی پەڕەگرافیە</em>
+<br>
+<mark>ئەمە نوسێنێکی پەڕەگرافیە</mark>
+<br><br>
+<small>ئەمە نوسێنێکی پەڕەگرافیە</small>
+<br>
+<br>
+<del>ئەمە نوسێنێکی پەڕەگرافیە</del>
+<br><br>
+<ins>ئەمە نوسێنێکی پەڕەگرافیە</ins>
+<br><br>
+<p>سلێمانی<sub>پیرەمەگروون</sub></p>
+<br><br>
+<p>سلێمانی<sup>پیرەمەگروون</sup></p>
+<br><br>
+<a href="https://www.facebook.com/groups/1075911169462427">Shikary</a>
+<br>
+<br>
+<button>دوگمە</button>
+<br>
+<ul>
+<li>پیزای گەورە</li>
+<li>پیزای وەسەت</li>
+<li>پیزای بچووک</li>
+</ul>
+<br>
+<ol>
+<li>پیزای گەورە</li>
+<li>پیزای وەسەت</li>
+<li>پیزای بچووک</li>
+</ol>
+<br>
+<hr>
+
+
+<pre>ئەمە نوسێنێکی پەڕەگرافیە</pre>
+<br>
+
+<addres>ئەمە نوسێنێکی پەڕەگرافیە</addres>
+<br>
+</body>
+
+</html>
